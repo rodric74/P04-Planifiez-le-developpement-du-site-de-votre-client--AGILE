@@ -9,7 +9,7 @@ Projet sans code, travail sur la métodologie AGILE et la gestion de projet
 - [🚀 Guide Étape par Étape](#-guide-étape-par-étape)
 - [🎯 Compétences Évaluées](#-compétences-évaluées)
 - [📊 Soutenance](#-soutenance)
-- [📞 Contact](#-contact)
+
 
 ## 📖 À Propos du Projet
 Webgencia a confié une mission unique : préparer, planifier et guider le projet de développement du site "Menu Maker by Qwenta". Ce site permettra aux restaurateurs de concevoir et de mettre en page leurs menus en quelques clics. L'objectif n'est pas seulement de développer, mais aussi de mettre en place une méthodologie de travail agile, en collaboration avec Soufiane, le Product Owner.
